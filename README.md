@@ -59,16 +59,6 @@ When you run the program, you will see a menu like this:
 You just enter a number to choose what you want to do.
 
 
-##  Example Usage
-
-* Add a product (Laptop, ₹50000)
-* Add it to cart with quantity 2
-* System will show:
-
-Laptop x2 = ₹100000
-GST (18%) = ₹18000
-Total = ₹118000
-
 
 ##  How is it built?
 
