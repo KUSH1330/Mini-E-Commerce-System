@@ -59,24 +59,6 @@ When you run the program, you will see a menu like this:
 You just enter a number to choose what you want to do.
 
 
-##  How to Run (Step-by-Step)
-
-### Step 1: Install Java
-
-Make sure Java is installed on your computer.
-
-### Step 2: Open the project folder
-
-###  Step 3: Compile the program
-
-Type this in terminal:
-
-javac *.java
-
-###  Step 4: Run the program
-
-java Main
-
 ##  Example Usage
 
 * Add a product (Laptop, ₹50000)
